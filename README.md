@@ -65,10 +65,6 @@ This project is a sales performance dashboard built using Streamlit. It allows u
 - Polars
 - Numpy
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
@@ -77,3 +73,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Psycopg2](https://www.psycopg.org/)
 - [Polars](https://www.pola.rs/)
 - [Numpy](https://numpy.org/)
+
+
+
