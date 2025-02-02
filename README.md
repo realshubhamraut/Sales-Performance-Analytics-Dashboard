@@ -4,7 +4,12 @@
 
 This project is a sales performance dashboard built using Streamlit. It allows users to visualize and analyze sales data stored in a PostgreSQL database. The dashboard provides key metrics, visualizations, and raw data to help understand sales performance over time.
 
+
+https://github.com/user-attachments/assets/76f93da7-b9da-4811-b2d6-ee0332228588
+
+
 ## Features
+
 
 - **Interactive Dashboard**: User-friendly interface to explore sales data.
 - **Key Metrics**: Displays total revenue, total orders, average order value, and top category.
