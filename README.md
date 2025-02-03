@@ -1,4 +1,4 @@
-# Sales Dashboard Streamlit
+# Sales Performance Analytics Dashboard
 
 ## Overview
 
