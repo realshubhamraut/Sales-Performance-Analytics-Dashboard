@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/76f93da7-b9da-4811-b2d6-ee0332228588
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/yourusername/sales-dashboard-streamlit.git
-    cd sales-dashboard-streamlit
+    cd Sales-Performance-Analytics-Dashboard 
     ```
 
 2. **Install the required packages**:
